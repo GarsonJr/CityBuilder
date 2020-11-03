@@ -1,0 +1,30 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+Builds/
+Logs/
+Assets/Plugins/Editor
+Assets/Plugins/Editor.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+.idea
+
+# ============ #
+# OS generated #
+# ============ #
+.vs/
+/Assembly-CSharp-Editor.csproj.DotSettings

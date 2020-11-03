@@ -1,0 +1,15 @@
+{
+	"CellSize" : 1,
+	"CityWidth" : 20,
+	"CityLength" : 20,
+	"Buildings" :
+	[
+		{
+			"Name" : "Test",
+			"Width" : 5,
+			"Length" : 5,
+			"Height" : 2,
+			"Power" : 1
+		}
+	]
+}
